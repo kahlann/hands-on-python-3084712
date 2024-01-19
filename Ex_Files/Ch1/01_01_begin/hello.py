@@ -1,0 +1,2 @@
+# Python poem
+import this
